@@ -5,7 +5,7 @@
 <br>
 
 ## About 
-I'm Alexandr Nasonov , a Frontend developer.
+I'm Alexandr Nasonov , a  <b>Frontend developer<b>.
 
 I have more than 5 years of experience in related job positions.
 
