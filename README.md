@@ -1,7 +1,8 @@
 # Hello there 👋, 𝗜'𝗺 Alexandr Nasonov
-[![email](https://img.shields.io/badge/gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasonanderson5@gmail.com)
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandr-nasonov-716476149/) 
+
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nasonanderson5@gmail.com)
 
 [<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram@alex_nasonov-%230077B5.svg?&style=for-the-badge&logo=telegram&color=blue" />](https://t.me/alex_nasonov)
 <br>
