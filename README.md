@@ -1,7 +1,7 @@
-# Hi there 👋, 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 Alexandr Nasonov
+# Hello there 👋, 𝗜'𝗺 Alexandr Nasonov
 
 ## About 
-I'm Alexandr Nasonov , a Frontend developer 
+I'm Alexandr Nasonov , a Frontend developer.
 
 I have more than 5 years of experience in related job positions.
 
