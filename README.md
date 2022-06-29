@@ -31,6 +31,8 @@ I also like to talk about the latest research and web technologies, espacially a
   <img alt="yarn" src="https://img.shields.io/badge/-YARN-117CAD?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1672b6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
   <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 </p>
