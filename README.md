@@ -1,6 +1,8 @@
 # Hello there 👋, 𝗜'𝗺 Alexandr Nasonov
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandr-nasonov-716476149/) 
 [<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram@alex_nasonov-%230077B5.svg?&style=for-the-badge&logo=telegram&color=blue" />](https://t.me/alex_nasonov)
+<br>
+<br>
 
 ## About 
 I'm Alexandr Nasonov , a Frontend developer.
@@ -9,13 +11,7 @@ I have more than 5 years of experience in related job positions.
 
 I also like to talk about the latest research and web technologies, espacially about frontend.
 
-
-<br>
-<br>
-
 ## Languages and Tools
-
-
 
 <!--
 **alex1blackhole/alex1blackhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
