@@ -1,5 +1,8 @@
 # Hello there 👋, 𝗜'𝗺 Alexandr Nasonov
+<a href="mailto:me@vas3k.ru"><img src="https://camo.githubusercontent.com/a3d0d229e7410257da737f636cfa1a95f1b6446e30431e670e12c1316bacd880/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6540766173336b2e72752532302d2532334536324231452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d61696c2e7275266c6f676f436f6c6f723d7768697465" alt="me@vas3k.ru" data-canonical-src="https://img.shields.io/badge/me@vas3k.ru%20-%23E62B1E.svg?&amp;style=for-the-badge&amp;logo=mail.ru&amp;logoColor=white" style="max-width: 100%;"></a>
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandr-nasonov-716476149/) 
+
 [<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram@alex_nasonov-%230077B5.svg?&style=for-the-badge&logo=telegram&color=blue" />](https://t.me/alex_nasonov)
 <br>
 <br>
