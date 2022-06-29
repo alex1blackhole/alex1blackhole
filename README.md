@@ -7,7 +7,7 @@
 ## About 
 I'm Alexandr Nasonov , a  <b>Frontend developer</b>.
 
-I have more than 5 years of experience in related job positions.
+I have more than <b>5 years of experience</b> in related job positions.
 
 I also like to talk about the latest research and web technologies, espacially about frontend.
 
