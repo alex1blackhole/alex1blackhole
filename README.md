@@ -13,6 +13,9 @@ I also like to talk about the latest research and web technologies, espacially a
 
 ## Languages and Tools
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1blackhole)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **alex1blackhole/alex1blackhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
