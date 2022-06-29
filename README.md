@@ -20,6 +20,7 @@ I also like to talk about the latest research and web technologies, espacially a
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-FF9856?style=flat-square&logo=mobx&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Stylus" src="https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus" />
