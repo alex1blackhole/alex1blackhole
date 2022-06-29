@@ -8,10 +8,16 @@ I have more than 5 years of experience in related job positions.
 I also like to talk about the latest research and web technologies, espacially about frontend.
 
 ## Connect with me
- 
+
+<br>
+<br>
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandr-nasonov-716476149/) 
 
 [<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram@alex_nasonov-%230077B5.svg?&style=for-the-badge&logo=telegram&color=blue" />](https://t.me/alex_nasonov)
+
+<br>
+<br>
 
 ## Languages and Tools
 
