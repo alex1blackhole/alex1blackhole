@@ -13,6 +13,7 @@ I also like to talk about the latest research and web technologies, espacially a
 
 ## Languages and Tools
 <p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F6DF37?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -27,8 +28,6 @@ I also like to talk about the latest research and web technologies, espacially a
   <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex1blackhole)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alex1blackhole/alex1blackhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
