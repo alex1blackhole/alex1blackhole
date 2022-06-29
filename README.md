@@ -12,11 +12,12 @@ I also like to talk about the latest research and web technologies, espacially a
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexandr-nasonov-716476149/) 
 [<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram@alex_nasonov-%230077B5.svg?&style=for-the-badge&logo=telegram&color=blue" />](https://t.me/alex_nasonov)
 
+<br>
+<br>
 
 ## Languages and Tools
 
-<br>
-<br>
+
 
 <!--
 **alex1blackhole/alex1blackhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
