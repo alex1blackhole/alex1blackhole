@@ -17,7 +17,7 @@ I also like to talk about the latest research and web technologies, espacially a
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F6DF37?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react_native&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-FF9856?style=flat-square&logo=mobx&logoColor=white" />
   <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
