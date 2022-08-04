@@ -40,8 +40,10 @@ I also like to talk about the latest research and web technologies, espacially a
   <img alt="ESlint" src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint" />
   <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 </p>
+
 <br>
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1blackhole)](https://github.com/alex1blackhole/github-readme-stats)
 
 <!--
