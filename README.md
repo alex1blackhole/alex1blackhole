@@ -43,9 +43,12 @@ I also like to talk about the latest research and web technologies, espacially a
 
 <br>
 <br>
-<p style="width:100%">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex1blackhole)](https://github.com/alex1blackhole/github-readme-stats)
-</p>
+
+
+
 <!--
 **alex1blackhole/alex1blackhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
