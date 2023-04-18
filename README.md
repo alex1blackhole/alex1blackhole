@@ -9,12 +9,10 @@
 <br>
 
 ## About 
-I'm Alexandr Nasonov , a  <b>Frontend developer</b>.
 
-I have more than <b>5 years of experience</b> in related job positions.
+Greetings, I am Alexandr Nasonov, a proficient <b>Frontend developer</b>. With over <b>5 years of hands-on experience</b> in various related job positions, I have honed my expertise to deliver high-quality results in web development.
 
-I also like to talk about the latest research and web technologies, espacially about frontend.
-
+In addition to my technical skills, I am also highly enthusiastic about staying up-to-date with the latest research and breakthroughs in web technologies, more specifically in Frontend development. Engaging in meaningful conversations about the latest industry trends and advancements is a great passion of mine.
 
 ## Languages and Tools
 <p>
